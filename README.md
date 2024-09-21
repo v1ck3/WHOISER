@@ -3,7 +3,7 @@ WHOISER is a program used to get results of whois record of domains. It is very 
 
 USAGE & STEPS :- 
 
-1. [FOR TERMUX ] pkg install figlet --------------------------------------------------------------------------------------------------------------------------------------
+1. [FOR TERMUX ] pkg install figlet --------------------------------------------------------------------------------------------------------------------------------------------------------
 [FOR LINUX ] apt install figlet
 
 
