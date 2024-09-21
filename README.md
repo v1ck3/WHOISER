@@ -3,7 +3,10 @@ WHOISER is a program used to get results of whois record of domains. It is very 
 
 USAGE & STEPS :- 
 
-1. pkg install figlet (for termux) / apt install figlet (for linux)
+1. [FOR TERMUX ] pkg install figlet
+[FOR LINUX ] apt install figlet
+
+
 2. git clone https://github.com/v1ck3/WHOISER
 3. cd WHOISER
 4. bash whoiser.sh
